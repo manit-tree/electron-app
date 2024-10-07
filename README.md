@@ -1,4 +1,4 @@
 # electron-app
 
-Staring template for develop Electron Application
+Starting template for develop Electron Application
 
